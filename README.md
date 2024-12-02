@@ -1,0 +1,1 @@
+This is a website showcasing a portfolio of dishes that I food styled. I am using it to also showcase my coding skills. 
